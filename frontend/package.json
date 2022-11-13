@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend on node login app",
+  "proxy": "http://localhost:8000",
+  "secure": false,
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shobhit Jaryal",
+  "license": "ISC"
+}
